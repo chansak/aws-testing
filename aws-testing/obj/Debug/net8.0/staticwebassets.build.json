@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U5XLBxSERIzAbjrJc63Eg3jABHo/XT0Rd7XzQyNguE8=",
+  "Source": "aws-testing",
+  "BasePath": "_content/aws-testing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
